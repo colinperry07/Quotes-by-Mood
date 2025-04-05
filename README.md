@@ -57,4 +57,8 @@ A simple Python program that provides a random quote based on the user's mood. T
     "The greatest remedy for anger is delay."
   ],
   "fear": [
-    "Fear is
+    "Fear is the disease. Hustle is the antidote.",
+    "Do one thing every day that scares you.",
+    "Fear is a natural reaction to moving closer to the truth."
+  ]
+}
